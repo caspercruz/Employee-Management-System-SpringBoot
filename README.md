@@ -1,4 +1,6 @@
 Employee Management (CRUD) System
+![EmployeeManagement](https://github.com/user-attachments/assets/a7b0450f-48ac-458f-8eb0-183a1537f412)
+
 
 ## 1. Project Description:
 
